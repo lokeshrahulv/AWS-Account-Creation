@@ -30,7 +30,7 @@ This experiment involves creating an AWS account, configuring security settings 
 
 ### ROOT USER:
 
-![Uploading Screenshot 2024-08-29 140619.png…]()
+![Screenshot 2024-08-29 140619](https://github.com/user-attachments/assets/3cce6340-09e2-462e-b09c-60b1f098e70f)
 
 
  ### IAM USER:
